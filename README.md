@@ -240,3 +240,20 @@ Software Developer
 This project demonstrates a basic **software licensing system** used in commercial desktop applications.
 
 GitHub Project by Ahmed Sayed
+
+
+
+
+
+
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/94ea299b-25bb-4cdc-a87d-e7df271ff311" />
+
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8d42af8-1e26-4ca4-9eca-265b6c91b3c4" />
+
+
+
+
+
+
+
+
